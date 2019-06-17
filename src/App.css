@@ -1,33 +1,33 @@
-.App {
-  text-align: center;
+.carousel-item{
+    height: 400px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.starImage{
+    width: 20px;
+    height: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card{
+    width: 500px;
+    height: auto;
 }
 
-.App-link {
-  color: #61dafb;
+.App{
+    max-width: auto;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Home{
+    background-image: url('./images/background.jpg');
+}
+
+.navbar{
+    background-color: black;
+}
+
+.jumbotron{
+    width: 90%;
+}
+
+.film{
+    background-image: url("./images/background.jpg");
 }
