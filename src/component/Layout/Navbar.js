@@ -18,11 +18,6 @@ class Navbar extends Component {
                                 <Link to='/allCharacters' className="text-white">All Actors</Link>                                
                             </li>
                         </ul>
-                        {/* <ul className="navbar-nav">
-                            <li className="nav-item">
-                                <Link to='/login' className="nav-link text-white" tabIndex="-1" aria-disabled="true">Logout</Link>
-                            </li>
-                        </ul> */}
                     </div>
             </nav>
 
